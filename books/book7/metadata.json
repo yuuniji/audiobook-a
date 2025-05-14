@@ -1,0 +1,22 @@
+{
+  "title": "Book 7",
+  "chapters": [
+    { "chapter": 1, "title": "Part 1, Chapter 1", "audio": "audio/chapter1.mp3", "content": "content/chapter1.txt" },
+    { "chapter": 2, "title": "Part 1, Chapter 2", "audio": "audio/chapter2.mp3", "content": "content/chapter2.txt" },
+    { "chapter": 3, "title": "Part 1, Chapter 3", "audio": "audio/chapter3.mp3", "content": "content/chapter3.txt" },
+    { "chapter": 4, "title": "Part 1, Chapter 4", "audio": "audio/chapter4.mp3", "content": "content/chapter4.txt" },
+    { "chapter": 5, "title": "Part 1, Chapter 5", "audio": "audio/chapter5.mp3", "content": "content/chapter5.txt" },
+    { "chapter": 6, "title": "Part 1, Chapter 6", "audio": "audio/chapter6.mp3", "content": "content/chapter6.txt" },
+    { "chapter": 7, "title": "Part 1, Chapter 7", "audio": "audio/chapter7.mp3", "content": "content/chapter7.txt" },
+    { "chapter": 8, "title": "Part 1, Chapter 8", "audio": "audio/chapter8.mp3", "content": "content/chapter8.txt" },
+    { "chapter": 9, "title": "Part 2, Chapter 1", "audio": "audio/chapter9.mp3", "content": "content/chapter9.txt" },
+    { "chapter": 10, "title": "Part 2, Chapter 2", "audio": "audio/chapter10.mp3", "content": "content/chapter10.txt" },
+    { "chapter": 11, "title": "Part 2, Chapter 3", "audio": "audio/chapter11.mp3", "content": "content/chapter11.txt" },
+    { "chapter": 12, "title": "Part 2, Chapter 4", "audio": "audio/chapter12.mp3", "content": "content/chapter12.txt" },
+    { "chapter": 13, "title": "Part 2, Chapter 5", "audio": "audio/chapter13.mp3", "content": "content/chapter13.txt" },
+    { "chapter": 14, "title": "Part 2, Chapter 6", "audio": "audio/chapter14.mp3", "content": "content/chapter14.txt" },
+    { "chapter": 15, "title": "Part 2, Chapter 7", "audio": "audio/chapter15.mp3", "content": "content/chapter15.txt" },
+    { "chapter": 16, "title": "Part 2, Chapter 8", "audio": "audio/chapter16.mp3", "content": "content/chapter16.txt" },
+    { "chapter": 17, "title": "Part 2, Chapter 9", "audio": "audio/chapter17.mp3", "content": "content/chapter17.txt" },
+  ]
+}
