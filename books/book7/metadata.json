@@ -1,0 +1,13 @@
+{
+  "title": "Book 7",
+  "chapters": [
+    { "chapter": 1, "title": "Chapter 1", "audio": "audio/chapter1.mp3", "content": "content/chapter1.txt" },
+    { "chapter": 2, "title": "Chapter 2", "audio": "audio/chapter2.mp3", "content": "content/chapter2.txt" },
+    { "chapter": 3, "title": "Chapter 3", "audio": "audio/chapter3.mp3", "content": "content/chapter3.txt" },
+    { "chapter": 4, "title": "Chapter 4", "audio": "audio/chapter4.mp3", "content": "content/chapter4.txt" },
+    { "chapter": 5, "title": "Chapter 5", "audio": "audio/chapter5.mp3", "content": "content/chapter5.txt" },
+    { "chapter": 6, "title": "Chapter 6", "audio": "audio/chapter6.mp3", "content": "content/chapter6.txt" },
+    { "chapter": 7, "title": "Chapter 7", "audio": "audio/chapter7.mp3", "content": "content/chapter7.txt" },
+    { "chapter": 8, "title": "Chapter 8", "audio": "audio/chapter8.mp3", "content": "content/chapter8.txt" }
+  ]
+}
